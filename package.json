@@ -14,6 +14,8 @@
     "stylus-loader": "^3.0.2"
   },
   "scripts": {
+    "dev":"vue serve encrypt.vue",
+    "build":"vue build encrypt.vue",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

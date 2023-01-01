@@ -11,7 +11,7 @@
   "devDependencies": {
     "style-resources-loader": "^1.3.2",
     "stylus": "^0.54.7",
-    "stylus-loader": "^3.0.2"
+    "stylus-loader": "^7.1.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
